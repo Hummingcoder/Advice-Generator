@@ -57,7 +57,7 @@ const App = () => {
           ADVICE #{quote.id}
         </p>
         <p
-          className={`text-[#cee3e9] font-bold min-h-[40px] text-[1.8rem] md:text-[2rem] duration-700 leading-10 ${
+          className={`text-[#cee3e9] font-bold min-h-[40px] text-[1.5rem] md:text-[2rem] duration-700 md:leading-10 ${
             loading ? "opacity-0 scale-50" : "opacity-100 scale-100"
           } `}
         >
