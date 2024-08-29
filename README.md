@@ -6,5 +6,5 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [URL here](https://your-solution-url.com)
-- Live Site URL: [URL here](https://your-live-site-url.com)
+- Solution URL: [URL here](https://www.frontendmentor.io/solutions/advice-generator-app-solution-x0-pEQvE4n)
+- Live Site URL: [URL here](https://hummingcoder.github.io/Advice-Generator/)

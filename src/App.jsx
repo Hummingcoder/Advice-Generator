@@ -52,7 +52,7 @@ const App = () => {
 
   return (
     <main className="bg-[#1f2632] min-h-screen w-full grid place-content-center font-Manrope">
-      <article className=" relative bg-[#343e4c] w-[90%] max-w-[600px] mx-auto min-h-[260px] flex justify-center flex-col items-center text-center px-5 pt-8 pb-[60px] gap-[1.6rem] rounded-lg shadow-shadow duration-700  ">
+      <article className=" relative bg-[#343e4c] w-[90%] max-w-[600px] mx-auto min-h-[260px] flex justify-center flex-col items-center text-center px-5 md:px-8 pt-8 pb-[60px] gap-[1.6rem] rounded-lg shadow-shadow duration-700  ">
         <p className="text-[#52ffa8] tracking-[3px] text-sm font-thin">
           ADVICE #{quote.id}
         </p>
